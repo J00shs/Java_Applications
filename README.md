@@ -7,11 +7,12 @@ If you click on branches, you can see a variety of projects showcasing things I 
 learned.
 
 <H1>Branches</H1>
-  <h3>Vehicle_Inheritance</h3>
-      - Learned about the essence of inheritance
-      - Usage of "extends", parent/child classes
-      - Overriding parent methods with child method
-   
+<h3>Vehicle_Inheritance</h3>
+<ul>
+ <li> Learned about the essence of inheritance</li>
+ <li>Usage of "extends", parent/child classes</li>
+ <li>erriding parent methods with child method</li>
+</ul>
     
     
   
