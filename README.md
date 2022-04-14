@@ -9,9 +9,9 @@ learned.
 <H1>Branches</H1>
 <h3>Vehicle_Inheritance</h3>
 <ul>
- <li> Learned about the essence of inheritance</li>
+ <li> Learned the essence of inheritance</li>
  <li>Usage of "extends", parent/child classes</li>
- <li>erriding parent methods with child method</li>
+ <li>Orriding parent methods with child method</li>
 </ul>
     
     
