@@ -9,7 +9,7 @@ learned.
 <H1>Branches</H1>
 <h3>Vehicle_Inheritance</h3>
 <ul>
- <li> Learned the essence of inheritance</li>
+ <li> Learned the fundamentals of inheritance</li>
  <li>Usage of "extends", parent/child classes</li>
  <li>Orriding parent methods with child method</li>
 </ul>
