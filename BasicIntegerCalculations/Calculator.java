@@ -1,4 +1,4 @@
-
+package BasicIntegerCalculations;
 ////////////////////////////////////////////////////////
 /////A simple calculator that runs via the terminal/////
 ////////////////////////////////////////////////////////
@@ -15,7 +15,7 @@ public class Calculator {
         System.out.println("To begin, please enter the first integer");
         int number1 = kb.nextInt();
         System.out.printf("The number you entered was: %d.", number1);
-        System.out.println("Now enter the next number.");
+        System.out.println(" Now enter the next number.");
         int number2 = kb.nextInt();
         System.out.printf("The number you entered was: %d", number2);
 
@@ -30,7 +30,6 @@ public class Calculator {
         System.out.println("4-Multiplication");
 
         int userChoice = kb.nextInt();
-        String test = System.out.printf("%d + %d = %d", number1, number2, ans);
         if(userChoice == 1){
             ans = number1 + number2;
             System.out.printf("%d + %d = %d", number1, number2, ans);

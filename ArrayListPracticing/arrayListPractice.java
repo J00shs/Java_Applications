@@ -1,8 +1,10 @@
+package ArrayListPracticing;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class hw9 {
+public class arrayListPractice {
     public static void main(String[] args) {
         int userInput;
         int listSize;
