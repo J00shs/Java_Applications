@@ -1,9 +1,10 @@
+package SimpleBankingSystem;
+
 
 
 ////////////////////////////////////////
-///////Banking System via terminal/////
-//////.zip avaliable on Github////////
-/////////////////////////////////////
+///////Banking System via terminal//////
+////////////////////////////////////////
 
 import java.util.Scanner;
 
@@ -46,7 +47,7 @@ public class mainSystem {
 
 
     public static void main(String[] args) {
-        
+
 
 
         System.out.println("Welcome to the Bank System.");
@@ -74,3 +75,4 @@ public class mainSystem {
 
     }
 }
+
