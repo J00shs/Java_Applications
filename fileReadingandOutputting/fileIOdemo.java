@@ -8,7 +8,6 @@ tests whether the file exists and tells the user
 If they dont delete, ask them if they would like to write to the file
 If they want to write, ask what they want to write to the file and write it.
 Make sure to provide plenty of console output dialog specifying what status/actions are taken at each step.
-USE SLIDE 23!!!
  */
 
 

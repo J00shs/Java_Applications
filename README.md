@@ -3,8 +3,7 @@
 
 A repository containing Java Applications I've developed overtime. 
 
-If you click on branches, you can see a variety of projects showcasing things I have learned. Below I have listed every branch and what I have
-learned.
+Each project was either assigned through my classes or personally made.
 
 <H1>Branches</H1>
 <h3>Vehicle_Inheritance</h3>
