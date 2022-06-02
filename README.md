@@ -11,7 +11,7 @@ learned.
 <ul>
  <li> Learned the fundamentals of inheritance</li>
  <li>Usage of "extends", parent/child classes</li>
- <li>Orriding parent methods with child method</li>
+ <li>Overriding parent methods with child method</li>
 </ul>
     
     
